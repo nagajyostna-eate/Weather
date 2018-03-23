@@ -28,6 +28,7 @@ if we use Java 8 , string validations will be much easier
 group all the global variable in common properties eg : Sleep , Url , paths ( so it is easier to change the URl depending of the environment tested )
 can test for multiple browsers
 framework can be extened for API testing 
+Assdert messages can be written better , to specify what went wrong
 
 
 
